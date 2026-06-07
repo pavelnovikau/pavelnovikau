@@ -11,3 +11,5 @@ Activating [Promwad](https://promwad.com), connecting the dots at [thdts.com](ht
     <img alt="token burn — Claude Code + Codex" src="https://raw.githubusercontent.com/pavelnovikau/ai-token-burn/master/assets/overview-light.svg">
   </picture>
 </a>
+
+<!-- live: ai.novikau.com -->
